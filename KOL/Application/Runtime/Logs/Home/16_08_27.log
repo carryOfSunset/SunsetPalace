@@ -1,0 +1,5 @@
+[ 2016-08-27T09:50:34+08:00 ] ::1 /KOL/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.072127s ]
+

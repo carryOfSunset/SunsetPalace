@@ -1,0 +1,257 @@
+[ 2016-08-26T10:43:10+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002138s ]
+
+[ 2016-08-26T10:43:34+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+
+[ 2016-08-26T10:43:39+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000989s ]
+
+[ 2016-08-26T10:49:00+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+
+[ 2016-08-26T10:49:20+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000748s ]
+
+[ 2016-08-26T10:49:42+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+
+[ 2016-08-26T10:50:03+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+
+[ 2016-08-26T10:50:05+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001143s ]
+
+[ 2016-08-26T10:50:21+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+
+[ 2016-08-26T11:22:13+08:00 ] ::1 /KOL/index.php/Admin/Material/getImgList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000760s ]
+
+[ 2016-08-26T11:22:28+08:00 ] ::1 /KOL/index.php/Admin/Material/getImgList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+
+[ 2016-08-26T11:35:16+08:00 ] ::1 /KOL/index.php/Admin/Material/manageImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000960s ]
+
+[ 2016-08-26T11:41:55+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000858s ]
+
+[ 2016-08-26T11:41:59+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+ERR: 1364:Field 'name' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `db_material` (`add_time`,`obj_path`) VALUES ('16-08-26 11:41:59','/KOL/upload/20160826/57bfba878598e.jpg')
+
+[ 2016-08-26T12:28:03+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000872s ]
+ERR: 1364:Field 'name' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `db_material` (`add_time`,`obj_path`) VALUES ('16-08-26 12:28:03','/mywork/KOL/upload/20160826/57bfc55346077.jpg')
+
+[ 2016-08-26T12:29:01+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000821s ]
+ERR: 1364:Field 'ruid' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `db_material` (`add_time`,`obj_path`,`name`) VALUES ('16-08-26 12:29:01','/mywork/KOL/upload/20160826/57bfc58db2491.jpg','0')
+
+[ 2016-08-26T12:29:46+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+ERR: 1364:Field 'sha1' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `db_material` (`add_time`,`obj_path`,`name`,`ruid`) VALUES ('16-08-26 12:29:46','/mywork/KOL/upload/20160826/57bfc5ba22764.jpg','0','0')
+
+[ 2016-08-26T12:30:25+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000905s ]
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`kol_redmanage`.`db_material`, CONSTRAINT `db_material_ibfk_1` FOREIGN KEY (`ruid`) REFERENCES `db_reduser` (`ruid`) ON DELETE CASCADE)
+ [ SQL语句 ] : INSERT INTO `db_material` (`add_time`,`obj_path`,`name`,`ruid`,`sha1`) VALUES ('16-08-26 12:30:25','/mywork/KOL/upload/20160826/57bfc5e10f6aa.jpg','0','0','0')
+
+[ 2016-08-26T13:23:59+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000933s ]
+
+[ 2016-08-26T13:24:01+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+
+[ 2016-08-26T13:24:22+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+
+[ 2016-08-26T13:24:31+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000864s ]
+
+[ 2016-08-26T13:24:41+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+
+[ 2016-08-26T13:25:25+08:00 ] ::1 /KOL/index.php/Admin/Material/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+ERR: 非法操作:index
+
+[ 2016-08-26T13:25:38+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+
+[ 2016-08-26T13:25:54+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000080s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001202s ]
+
+[ 2016-08-26T13:31:22+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000840s ]
+
+[ 2016-08-26T13:31:33+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000829s ]
+
+[ 2016-08-26T13:38:30+08:00 ] ::1 /KOL/index.php/Admin/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000779s ]
+
+[ 2016-08-26T13:42:29+08:00 ] ::1 /KOL/index.php/Admin/Material/manageImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+ERR: 1364:Field 'name' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `db_material` (`ruid`,`type`,`obj_path`,`add_time`,`usenum`) VALUES (NULL,NULL,NULL,'16-08-26 01:42:29','1')
+
+[ 2016-08-26T13:43:14+08:00 ] ::1 /KOL/index.php/Admin/Material/manageImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001083s ]
+ERR: 1048:Column 'ruid' cannot be null
+ [ SQL语句 ] : INSERT INTO `db_material` (`ruid`,`type`,`obj_path`,`add_time`,`usenum`,`name`,`sha1`) VALUES (NULL,NULL,NULL,'16-08-26 01:43:14','1','0','0')
+
+[ 2016-08-26T13:43:40+08:00 ] ::1 /KOL/index.php/Admin/Material/manageImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+ERR: 1048:Column 'ruid' cannot be null
+ [ SQL语句 ] : INSERT INTO `db_material` (`ruid`,`type`,`obj_path`,`add_time`,`usenum`,`name`,`sha1`) VALUES (NULL,NULL,NULL,'16-08-26 01:43:40','1','0','0')
+
+[ 2016-08-26T13:44:26+08:00 ] ::1 /KOL/index.php/Admin/Material/manageImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+
+[ 2016-08-26T13:44:57+08:00 ] ::1 /KOL/index.php/Admin/Material/manageImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+
+[ 2016-08-26T13:45:16+08:00 ] ::1 /KOL/index.php/Admin/Material/manageImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001265s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002057s ]
+
+[ 2016-08-26T13:46:40+08:00 ] ::1 /KOL/index.php/Admin/Material/manageImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000091s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+
+[ 2016-08-26T13:47:25+08:00 ] ::1 /KOL/index.php/Admin/Material/manageImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000808s ]
+
+[ 2016-08-26T13:47:38+08:00 ] ::1 /KOL/index.php/Admin/Material/manageImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001834s ]
+
+[ 2016-08-26T14:21:15+08:00 ] ::1 /KOL/index.php/Admin/Material/manageImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000846s ]
+
+[ 2016-08-26T14:25:14+08:00 ] ::1 /KOL/index.php/Admin/Material/manageImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001043s ]
+
+[ 2016-08-26T14:25:28+08:00 ] ::1 /KOL/index.php/Admin/Material/manageImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+
+[ 2016-08-26T14:25:43+08:00 ] ::1 /KOL/index.php/Admin/Material/manageImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000783s ]
+
+[ 2016-08-26T14:26:33+08:00 ] ::1 /KOL/index.php/Admin/Material/manageImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+
+[ 2016-08-26T14:26:51+08:00 ] ::1 /KOL/index.php/Admin/Material/manageImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+
+[ 2016-08-26T14:37:08+08:00 ] ::1 /KOL/index.php/Admin/InsertKOL/insertKOL
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+
+[ 2016-08-26T14:37:19+08:00 ] ::1 /KOL/index.php/Admin/InsertKOL/insertKOL
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001933s ]
+
+[ 2016-08-26T15:05:29+08:00 ] ::1 /KOL/index.php/Admin/InsertKOL/insertKOL
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000077s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016633s ]
+
+[ 2016-08-26T15:05:51+08:00 ] ::1 /KOL/index.php/Admin/InsertKOL/insertKOL
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000743s ]
+

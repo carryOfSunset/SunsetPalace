@@ -1,0 +1,6 @@
+[ 2016-08-26T10:43:00+08:00 ] ::1 /KOL/index.php/Material/uploadImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002465s ]
+ERR: 无法加载模块:Material
+
